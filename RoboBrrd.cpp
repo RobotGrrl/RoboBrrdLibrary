@@ -148,7 +148,7 @@ bool RoboBrrd::init() {
 
 	// emote
 	last_emote_save = 0;
-	emote_auto_save = true;
+	emote_auto_save = false;
 
 
 	// promulgate
